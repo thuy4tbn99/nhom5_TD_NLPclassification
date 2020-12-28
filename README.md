@@ -4,7 +4,7 @@
 This is an Assignment about Topic detection 
 
 # Data 
-16,000 statuses on FB 
+16,000 statuses on FB  
 23 labels such as: politic, sport, health,...
 
 # Solution 
