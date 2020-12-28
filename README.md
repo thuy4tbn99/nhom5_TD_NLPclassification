@@ -11,4 +11,4 @@ This is an Assignment about Topic detection
 Using TF-IDF for scoring documents and SVM for classifier
 
 # Install
-pip install requirement.txt
+pip install -r requirements.txt
